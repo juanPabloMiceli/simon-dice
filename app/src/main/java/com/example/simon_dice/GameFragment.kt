@@ -63,9 +63,9 @@ class GameFragment : Fragment() {
 
     private val mWaveforms: List<LongArray> = listOf(
         longArrayOf(0, 50),
-        longArrayOf(0, 50, 50, 125),
-        longArrayOf(0, 125, 50, 50),
-        longArrayOf(0, 125),
+        longArrayOf(0, 50, 75, 150),
+        longArrayOf(0, 150, 75, 50),
+        longArrayOf(0, 150),
 
     )
 

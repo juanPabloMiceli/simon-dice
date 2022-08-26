@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/juampi/android-practice/simondice/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
+            "outputFile": "/Users/juampi/Documents/simon-dice/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml",
             "map": [
                 {
                     "source": "/Users/juampi/.gradle/caches/transforms-3/fb3270031bd107031c21c5dc13d9e5ef/transformed/core-1.7.0/res/values-in/values-in.xml",

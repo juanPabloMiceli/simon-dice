@@ -56,7 +56,7 @@
         android:layout_centerVertical="true"
         android:layout_marginTop="32dp"
         app:isw_default_selection="right"
-        app:isw_icon_left="@drawable/ic_off"
+        app:isw_icon_left="@drawable/ic_vibrate_off"
         app:isw_icon_right="@drawable/ic_vibrate_on"
         app:isw_icon_size="25dp"
         app:layout_constraintEnd_toEndOf="parent"

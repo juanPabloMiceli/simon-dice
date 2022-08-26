@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/juampi/android-practice/simondice/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/juampi/Documents/simon-dice/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/Users/juampi/.gradle/caches/transforms-3/7c35e9ced6058ee9ee419dce8130dd8e/transformed/appcompat-1.4.1/res/values-night-v8/values-night-v8.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/juampi/android-practice/simondice/app/src/main/res/values-night/themes.xml",
+                    "source": "/Users/juampi/Documents/simon-dice/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -2478,6 +2478,7 @@ drawable ic_mtrl_chip_close_circle
 drawable ic_music_off
 drawable ic_music_on
 drawable ic_off
+drawable ic_vibrate_off
 drawable ic_vibrate_on
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay

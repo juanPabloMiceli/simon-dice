@@ -6,46 +6,46 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml
+8-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml
+9-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.VIBRATE" />
-11-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:5:5-66
-11-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:5:22-63
+11-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:5:5-66
+11-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:5:22-63
 12
 13    <application
-13-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:6:5-22:19
+13-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:6:5-22:19
 14        android:allowBackup="true"
-14-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:7:9-35
+14-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:7:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 15-->[androidx.core:core:1.7.0] /Users/juampi/.gradle/caches/transforms-3/fb3270031bd107031c21c5dc13d9e5ef/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
 17        android:icon="@mipmap/ic_launcher"
-17-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:8:9-43
+17-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:8:9-43
 18        android:label="@string/app_name"
-18-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:9:9-41
+18-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:9:9-41
 19        android:roundIcon="@mipmap/ic_launcher_round"
-19-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:10:9-54
+19-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:10:9-54
 20        android:supportsRtl="true"
-20-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:11:9-35
+20-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:11:9-35
 21        android:theme="@style/Theme.Simondice" >
-21-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:12:9-47
+21-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:12:9-47
 22        <activity
-22-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:13:9-21:20
+22-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:13:9-21:20
 23            android:name="com.example.simon_dice.MainActivity"
-23-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:14:13-41
+23-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:14:13-41
 24            android:exported="true" >
-24-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:15:13-36
+24-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:15:13-36
 25            <intent-filter>
-25-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:16:13-20:29
+25-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:16:13-20:29
 26                <action android:name="android.intent.action.MAIN" />
-26-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:17:17-69
-26-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:17:25-66
+26-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:17:17-69
+26-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:17:25-66
 27
 28                <category android:name="android.intent.category.LAUNCHER" />
-28-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:19:17-77
-28-->/Users/juampi/android-practice/simondice/app/src/main/AndroidManifest.xml:19:27-74
+28-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:19:17-77
+28-->/Users/juampi/Documents/simon-dice/app/src/main/AndroidManifest.xml:19:27-74
 29            </intent-filter>
 30        </activity>
 31
