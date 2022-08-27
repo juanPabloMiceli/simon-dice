@@ -1,5 +1,11 @@
 # Simon dice
 
+## Instalación
+
+Descargar e instalar el APK [simon dice](./simon_dice.apk), al no ser un desarrollador certificado es necesario permitir la instalación de fuentes desconocidas (te prometo que no mino criptomonedas mientras jugas).
+
+> **_NOTA:_**  Esta aplicación solo puede ser usada en dispositivos Android.
+
 ## Desarrollo
 
 Este proyecto se hizo en el contexto de la materia `Introducción a las interacciones hápticas` dictada en la `ECI 2022`.
