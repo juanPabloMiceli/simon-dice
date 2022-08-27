@@ -85,6 +85,7 @@ class GameFragment : Fragment() {
         super.onCreate(savedInstanceState)
         mMusicOn = arguments?.getBoolean(ARG_MUSIC_ON) as Boolean
         mVibrateOn = arguments?.getBoolean(ARG_VIBRATE_ON) as Boolean
+        buttonsState(false)
 
     }
 
@@ -96,7 +97,6 @@ class GameFragment : Fragment() {
         // Inflate the layout for this fragment
         val v: View = inflater.inflate(R.layout.fragment_game, container, false)
         buttonsState(false)
-
         mScoreCounter = v.findViewById(R.id.score_counter)
 
         mButtons.add(v.findViewById(R.id.button1))
@@ -106,6 +106,9 @@ class GameFragment : Fragment() {
         for (i in (0..3)){
             mButtons[i].setOnClickListener {
                 buttonOn(i)
+                if(mCount >= mSequence.size){
+                    return@setOnClickListener
+                }
                 if(mSequence[mCount] == i){
                     mCount++
                 }else{
